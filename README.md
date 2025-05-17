@@ -1,3 +1,5 @@
+NAME : SARANKUMAR.V
+REGISTER NUMBER: 212224220089
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
